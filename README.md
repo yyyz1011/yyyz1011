@@ -1,4 +1,4 @@
-## <p align="center">Hi 👋, I'm YeZhou</p>
+## <p align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm YeZhou</p>
 
 ### <p align="center"> A passionate frontend developer from China </p>
 
