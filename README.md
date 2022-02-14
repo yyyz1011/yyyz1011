@@ -1,9 +1,13 @@
-YeZhou
+## <p align="center">Hi 👋, I'm YeZhou</p>
 
-email:1540032876@qq.com
+### <p align="center"> A passionate frontend developer from China </p>
 
-base:HangZhou
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue-3-green" />
+  <img src="https://img.shields.io/badge/Vue-2-gree" />
+  <img src="https://img.shields.io/badge/React-%2017-orange" />
+</p>
 
-![](https://img.shields.io/badge/Vue-3-green) ![](https://img.shields.io/badge/Vue-2-green) ![](https://img.shields.io/badge/React-%2017-orange)
-
-![YeZhou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyyz1011&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yyyz1011&show_icons=true&theme=dark" />
+</p>
